@@ -1,0 +1,682 @@
+[
+  {
+    "name": "Keisler 2022",
+    "file": "01_Keisler2022.md",
+    "arxiv": "2202.07575",
+    "paper_title": "Forecasting Global Weather with Graph Neural Networks",
+    "code": null,
+    "category": "gnn"
+  },
+  {
+    "name": "GraphCast",
+    "file": "02_GraphCast.md",
+    "arxiv": "2212.12794",
+    "paper_title": "GraphCast: Learning skillful medium-range global weather forecasting",
+    "code": "https://github.com/google-deepmind/weathernext",
+    "category": "gnn"
+  },
+  {
+    "name": "SeaCast",
+    "file": "03_SeaCast.md",
+    "arxiv": "2410.11807",
+    "paper_title": "Regional Ocean Forecasting with Hierarchical Graph Neural Networks",
+    "code": null,
+    "category": "gnn"
+  },
+  {
+    "name": "GraphRiverCast",
+    "file": "04_GraphRiverCast.md",
+    "arxiv": "2602.22293",
+    "paper_title": "Learning global river system hydrodynamics with a topology-informed foundation model",
+    "code": null,
+    "category": "gnn"
+  },
+  {
+    "name": "FourCastNet",
+    "file": "05_FourCastNet.md",
+    "arxiv": "2202.11214",
+    "paper_title": "FourCastNet: A Global Data-driven High-resolution Weather Model using Adaptive Fourier Neural Operators",
+    "code": "https://github.com/NVlabs/FourCastNet",
+    "category": "no"
+  },
+  {
+    "name": "ACE",
+    "file": "06_ACE.md",
+    "arxiv": "2310.02074",
+    "paper_title": "ACE: A fast, skillful learned global atmospheric model for climate prediction",
+    "code": "https://github.com/ai2cm/ace",
+    "category": "no"
+  },
+  {
+    "name": "NeuralGCM",
+    "file": "07_NeuralGCM.md",
+    "arxiv": "2311.07222",
+    "paper_title": "Neural General Circulation Models for Weather and Climate",
+    "code": "https://github.com/neuralgcm/neuralgcm",
+    "category": "no"
+  },
+  {
+    "name": "ACE2",
+    "file": "08_ACE2.md",
+    "arxiv": "2411.11268",
+    "paper_title": "ACE2: Accurately learning subseasonal to decadal atmospheric variability and forced responses",
+    "code": "https://github.com/ai2cm/ace",
+    "category": "no"
+  },
+  {
+    "name": "LUCIE-3D",
+    "file": "09_LUCIE-3D.md",
+    "arxiv": "2509.02061",
+    "paper_title": "LUCIE-3D: A three-dimensional climate emulator for forced responses",
+    "code": null,
+    "category": "no"
+  },
+  {
+    "name": "Pangu-Weather",
+    "file": "10_Pangu-Weather.md",
+    "arxiv": "2211.02556",
+    "paper_title": "Pangu-Weather: A 3D High-Resolution Model for Fast and Accurate Global Weather Forecast",
+    "code": "https://github.com/198808xc/Pangu-Weather",
+    "category": "tf"
+  },
+  {
+    "name": "FengWu",
+    "file": "11_FengWu.md",
+    "arxiv": "2304.02948",
+    "paper_title": "FengWu: Pushing the Skillful Global Medium-range Weather Forecast beyond 10 Days Lead",
+    "code": "https://github.com/OpenEarthLab/FengWu",
+    "category": "tf"
+  },
+  {
+    "name": "FuXi",
+    "file": "12_FuXi.md",
+    "arxiv": "2306.12873",
+    "paper_title": "FuXi: A cascade machine learning forecasting system for 15-day global weather forecast",
+    "code": "https://github.com/tpys/fuxi-weather",
+    "category": "tf"
+  },
+  {
+    "name": "ClimaX",
+    "file": "13_ClimaX.md",
+    "arxiv": "2301.10343",
+    "paper_title": "ClimaX: A foundation model for weather and climate",
+    "code": "https://github.com/microsoft/ClimaX",
+    "category": "tf"
+  },
+  {
+    "name": "Aurora",
+    "file": "14_Aurora.md",
+    "arxiv": "2405.13063",
+    "paper_title": "A Foundation Model for the Earth System",
+    "code": "https://github.com/microsoft/aurora",
+    "category": "tf"
+  },
+  {
+    "name": "AIFS",
+    "file": "15_AIFS.md",
+    "arxiv": "2406.01465",
+    "paper_title": "AIFS -- ECMWF&#39;s data-driven forecasting system",
+    "code": null,
+    "category": "tf"
+  },
+  {
+    "name": "GenCast",
+    "file": "16_GenCast.md",
+    "arxiv": "2312.15796",
+    "paper_title": "GenCast: Diffusion-based ensemble forecasting for medium-range weather",
+    "code": "https://github.com/google-deepmind/weathernext",
+    "category": "prob"
+  },
+  {
+    "name": "CorrDiff",
+    "file": "17_CorrDiff.md",
+    "arxiv": "2309.15214",
+    "paper_title": "Residual Corrective Diffusion Modeling for Km-scale Atmospheric Downscaling",
+    "code": null,
+    "category": "prob"
+  },
+  {
+    "name": "NowcastNet",
+    "file": "18_NowcastNet.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "radar"
+  },
+  {
+    "name": "DGMR",
+    "file": "19_DGMR.md",
+    "arxiv": "2104.00954",
+    "paper_title": "Skillful Precipitation Nowcasting using Deep Generative Models of Radar",
+    "code": "https://github.com/openclimatefix/skillful_nowcasting",
+    "category": "radar"
+  },
+  {
+    "name": "StormCast",
+    "file": "20_StormCast.md",
+    "arxiv": "2408.10958",
+    "paper_title": "Kilometer-Scale Convection Allowing Model Emulation using Generative Diffusion Modeling",
+    "code": null,
+    "category": "radar"
+  },
+  {
+    "name": "GAN-UNet",
+    "file": "21_GAN-UNet.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "cnn"
+  },
+  {
+    "name": "ARCNNv1",
+    "file": "22_ARCNNv1.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "cnn"
+  },
+  {
+    "name": "DLESyM",
+    "file": "23_DLESyM.md",
+    "arxiv": "2409.16247",
+    "paper_title": "A Deep Learning Earth System Model for Efficient Simulation of the Observed Climate",
+    "code": null,
+    "category": "cnn"
+  },
+  {
+    "name": "Samudra / Samudra2",
+    "file": "24_Samudra.md",
+    "arxiv": "2412.03795",
+    "paper_title": "Samudra: An AI Global Ocean Emulator for Climate",
+    "code": "https://github.com/m2lines/Samudra",
+    "category": "other"
+  },
+  {
+    "name": "CliMA",
+    "file": "25_CliMA.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "other"
+  },
+  {
+    "name": "ACE2-SOM",
+    "file": "26_ACE2-SOM.md",
+    "arxiv": "2412.04418",
+    "paper_title": "ACE2-SOM: Coupling an ML atmospheric emulator to a slab ocean and learning the sensitivity of climate to changed CO$_2$",
+    "code": "https://github.com/ai2cm/ace",
+    "category": "no"
+  },
+  {
+    "name": "3D-Geoformer",
+    "file": "27_3D-Geoformer.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "tf"
+  },
+  {
+    "name": "Prithvi-WxC",
+    "file": "28_Prithvi-WxC.md",
+    "arxiv": "2409.13598",
+    "paper_title": "Prithvi WxC: Foundation Model for Weather and Climate",
+    "code": "https://github.com/NASA-IMPACT/Prithvi-WxC",
+    "category": "tf"
+  },
+  {
+    "name": "FengWu-W2S",
+    "file": "29_FengWu-W2S.md",
+    "arxiv": "2411.10191",
+    "paper_title": "FengWu-W2S: A deep learning model for seamless weather-to-subseasonal forecast of global atmosphere",
+    "code": "https://github.com/OpenEarthLab/FengWu",
+    "category": "tf"
+  },
+  {
+    "name": "WeatherGFT / FGT",
+    "file": "30_FGT.md",
+    "arxiv": "2405.13796",
+    "paper_title": "Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling",
+    "code": null,
+    "category": "tf"
+  },
+  {
+    "name": "HighFM",
+    "file": "31_HighFM.md",
+    "arxiv": "2604.04306",
+    "paper_title": "HighFM: Towards a Foundation Model for Learning Representations from High-Frequency Earth Observation Data",
+    "code": null,
+    "category": "tf"
+  },
+  {
+    "name": "WenHai",
+    "file": "32_WenHai.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "other"
+  },
+  {
+    "name": "XiHe",
+    "file": "33_XiHe.md",
+    "arxiv": "2402.02995",
+    "paper_title": "XiHe: A Data-Driven Model for Global Ocean Eddy-Resolving Forecasting",
+    "code": null,
+    "category": "other"
+  },
+  {
+    "name": "FuXi-ENS",
+    "file": "34_FuXi-ENS.md",
+    "arxiv": "2405.05925",
+    "paper_title": "FuXi-ENS: A machine learning model for medium-range ensemble weather forecasting",
+    "code": "https://github.com/tpys/fuxi-weather",
+    "category": "prob"
+  },
+  {
+    "name": "FuXi-S2S",
+    "file": "35_FuXi-S2S.md",
+    "arxiv": "2312.09926",
+    "paper_title": "FuXi-S2S: A machine learning model that outperforms conventional global subseasonal forecast models",
+    "code": "https://github.com/tpys/fuxi-weather",
+    "category": "prob"
+  },
+  {
+    "name": "FuXi-Extreme",
+    "file": "36_FuXi-Extreme.md",
+    "arxiv": "2310.19822",
+    "paper_title": "FuXi-Extreme: Improving extreme rainfall and wind forecasts with diffusion model",
+    "code": "https://github.com/tpys/fuxi-weather",
+    "category": "prob"
+  },
+  {
+    "name": "OmniCast",
+    "file": "37_OmniCast.md",
+    "arxiv": "2510.18707",
+    "paper_title": "OmniCast: A Masked Latent Diffusion Model for Weather Forecasting Across Time Scales",
+    "code": null,
+    "category": "prob"
+  },
+  {
+    "name": "LaDCast",
+    "file": "38_LaDCast.md",
+    "arxiv": "2506.09193",
+    "paper_title": "LaDCast: A Latent Diffusion Model for Medium-Range Ensemble Weather Forecasting",
+    "code": null,
+    "category": "prob"
+  },
+  {
+    "name": "cBottle",
+    "file": "39_cBottle.md",
+    "arxiv": "2505.06474",
+    "paper_title": "Climate in a Bottle: Towards a Generative Foundation Model for the Kilometer-Scale Global Atmosphere",
+    "code": "https://github.com/NVlabs/cBottle",
+    "category": "prob"
+  },
+  {
+    "name": "Marchuk",
+    "file": "40_Marchuk.md",
+    "arxiv": "2603.24428",
+    "paper_title": "Marchuk: Efficient Global Weather Forecasting from Mid-Range to Sub-Seasonal Scales via Flow Matching",
+    "code": null,
+    "category": "prob"
+  },
+  {
+    "name": "MetNet / MetNet-2 / MetNet-3",
+    "file": "41_MetNet.md",
+    "arxiv": "2306.06079",
+    "paper_title": "Deep Learning for Day Forecasts from Sparse Observations",
+    "code": "https://github.com/openclimatefix/metnet",
+    "category": "multi"
+  },
+  {
+    "name": "Aardvark Weather",
+    "file": "42_Aardvark.md",
+    "arxiv": "2404.00411",
+    "paper_title": "Aardvark weather: end-to-end data-driven weather forecasting",
+    "code": null,
+    "category": "multi"
+  },
+  {
+    "name": "FengWu-4DVar",
+    "file": "43_FengWu-4DVar.md",
+    "arxiv": "2312.12455",
+    "paper_title": "FengWu-4DVar: Coupling the Data-driven Weather Forecasting Model with 4D Variational Assimilation",
+    "code": "https://github.com/OpenEarthLab/FengWu",
+    "category": "multi"
+  },
+  {
+    "name": "FuXi-Weather",
+    "file": "44_FuXi-Weather.md",
+    "arxiv": "2408.05472",
+    "paper_title": "FuXi Weather: A data-to-forecast machine learning system for global weather",
+    "code": "https://github.com/tpys/fuxi-weather",
+    "category": "multi"
+  },
+  {
+    "name": "SatMAE",
+    "file": "45_SatMAE.md",
+    "arxiv": "2207.08051",
+    "paper_title": "SatMAE: Pre-training Transformers for Temporal and Multi-Spectral Satellite Imagery",
+    "code": null,
+    "category": "eo"
+  },
+  {
+    "name": "Prithvi-EO-1",
+    "file": "46_Prithvi-EO-1.md",
+    "arxiv": "2310.18660",
+    "paper_title": "Foundation Models for Generalist Geospatial Artificial Intelligence",
+    "code": "https://github.com/NASA-IMPACT/Prithvi-EO-2.0",
+    "category": "eo"
+  },
+  {
+    "name": "Prithvi-EO-2.0",
+    "file": "47_Prithvi-EO-2.md",
+    "arxiv": "2412.02732",
+    "paper_title": "Prithvi-EO-2.0: A Versatile Multi-Temporal Foundation Model for Earth Observation Applications",
+    "code": "https://github.com/NASA-IMPACT/Prithvi-EO-2.0",
+    "category": "eo"
+  },
+  {
+    "name": "AnySat",
+    "file": "48_AnySat.md",
+    "arxiv": "2412.14123",
+    "paper_title": "AnySat: One Earth Observation Model for Many Resolutions, Scales, and Modalities",
+    "code": null,
+    "category": "eo"
+  },
+  {
+    "name": "Clay",
+    "file": "49_Clay.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": "https://github.com/Clay-foundation/model",
+    "category": "eo"
+  },
+  {
+    "name": "SkySense",
+    "file": "50_SkySense.md",
+    "arxiv": "2312.10115",
+    "paper_title": "SkySense: A Multi-Modal Remote Sensing Foundation Model Towards Universal Interpretation for Earth Observation Imagery",
+    "code": null,
+    "category": "eo"
+  },
+  {
+    "name": "ResoNet",
+    "file": "51_ResoNet.md",
+    "arxiv": "2312.10429",
+    "paper_title": "ResoNet: Robust and Explainable ENSO Forecasts with Hybrid Convolution and Transformer Networks",
+    "code": null,
+    "category": "other"
+  },
+  {
+    "name": "AIFL",
+    "file": "52_AIFL.md",
+    "arxiv": "2602.16579",
+    "paper_title": "AIFL: A Global Daily Streamflow Forecasting Model Using a Deterministic LSTM Pre-trained on ERA5-Land and Fine-tuned on IFS",
+    "code": null,
+    "category": "other"
+  },
+  {
+    "name": "SamudrACE",
+    "file": "53_SamudrACE.md",
+    "arxiv": "2509.12490",
+    "paper_title": "SamudrACE: Fast and Accurate Coupled Climate Modeling with 3D Ocean and Atmosphere Emulators",
+    "code": "https://github.com/ai2cm/ace",
+    "category": "other"
+  },
+  {
+    "name": "CTEFNet",
+    "file": "54_CTEFNet.md",
+    "arxiv": "2503.19502",
+    "paper_title": "Towards Long-Range ENSO Prediction with an Explainable Deep Learning Model",
+    "code": null,
+    "category": "other"
+  },
+  {
+    "name": "DualST",
+    "file": "55_DualST.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "other"
+  },
+  {
+    "name": "FengWu-GHR",
+    "file": "56_FengWu-GHR.md",
+    "arxiv": "2402.00059",
+    "paper_title": "FengWu-GHR: Learning the Kilometer-scale Medium-range Global Weather Forecasting",
+    "code": "https://github.com/OpenEarthLab/FengWu",
+    "category": "other"
+  },
+  {
+    "name": "AI-TRANS",
+    "file": "57_AI-TRANS.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "other"
+  },
+  {
+    "name": "AIFS-TC / AIFS ENS",
+    "file": "58_AIFS-TC_ENS.md",
+    "arxiv": "2608.09959",
+    "paper_title": "AIFS-TC: A simple correction competitive with the operational frontier for tropical cyclone intensity forecasting",
+    "code": null,
+    "category": "prob"
+  },
+  {
+    "name": "Feng-Shun / 风顺",
+    "file": "59_Feng-Shun.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "prob"
+  },
+  {
+    "name": "WeatherNext 2 / FGN",
+    "file": "60_WeatherNext2_FGN.md",
+    "arxiv": "2506.10772",
+    "paper_title": "Skillful joint probabilistic weather forecasting from marginals",
+    "code": "https://github.com/google-deepmind/weathernext",
+    "category": "prob"
+  },
+  {
+    "name": "FengWu-Ensemble",
+    "file": "61_FengWu-Ensemble.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": "https://github.com/OpenEarthLab/FengWu",
+    "category": "prob"
+  },
+  {
+    "name": "FourCastNet-3 / FCN3",
+    "file": "62_FourCastNet3.md",
+    "arxiv": "2507.12144",
+    "paper_title": "FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale",
+    "code": "https://github.com/NVlabs/FourCastNet",
+    "category": "prob"
+  },
+  {
+    "name": "Aurora 1.5",
+    "file": "63_Aurora15.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": "https://github.com/microsoft/aurora",
+    "category": "prob"
+  },
+  {
+    "name": "Global MetNet",
+    "file": "64_GlobalMetNet.md",
+    "arxiv": "2510.13050",
+    "paper_title": "An Operational Deep Learning System for Satellite-Based High-Resolution Global Nowcasting",
+    "code": "https://github.com/openclimatefix/metnet",
+    "category": "sat"
+  },
+  {
+    "name": "StormScope",
+    "file": "65_StormScope.md",
+    "arxiv": "2601.17268",
+    "paper_title": "Skillful Thunderstorm Forecasts Learned Directly from Observations",
+    "code": null,
+    "category": "sat"
+  },
+  {
+    "name": "DDMS",
+    "file": "66_DDMS.md",
+    "arxiv": "2404.10512",
+    "paper_title": "Four-hour thunderstorm nowcasting using a deep diffusion model of satellite data",
+    "code": null,
+    "category": "sat"
+  },
+  {
+    "name": "STGLDWeather",
+    "file": "67_STGLDWeather.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": "https://github.com/ZhiPengWuBD/STGLD",
+    "category": "station"
+  },
+  {
+    "name": "FengLei / 风雷",
+    "file": "68_FengLei.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "multi"
+  },
+  {
+    "name": "VeinCast",
+    "file": "69_VeinCast.md",
+    "arxiv": "2608.09286",
+    "paper_title": "VeinCast: Physics-Guided Dynamic Field Graphs with Graph-Conditioned Fusion for Global Medium-Range Weather Forecasting",
+    "code": null,
+    "category": "multi"
+  },
+  {
+    "name": "UniCM",
+    "file": "70_UniCM.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": "https://github.com/tsinghua-fib-lab/UniCM-Global-Climate-Modes",
+    "category": "multi"
+  },
+  {
+    "name": "AI-GAMFS",
+    "file": "71_AI-GAMFS.md",
+    "arxiv": "2412.02498",
+    "paper_title": "Advancing global aerosol forecasting with artificial intelligence",
+    "code": null,
+    "category": "multi"
+  },
+  {
+    "name": "LangYa / 琅琊",
+    "file": "72_LangYa.md",
+    "arxiv": "2412.18097",
+    "paper_title": "LangYa: Revolutionizing Cross-Spatiotemporal Ocean Forecasting",
+    "code": null,
+    "category": "multi"
+  },
+  {
+    "name": "FuXi-TC",
+    "file": "73_FuXi-TC.md",
+    "arxiv": "2508.16168",
+    "paper_title": "FuXi-TC: A generative framework integrating deep learning and physics-based models for improved tropical cyclone forecasts",
+    "code": "https://github.com/tpys/fuxi-weather",
+    "category": "multi"
+  },
+  {
+    "name": "FuXi-SHTM",
+    "file": "74_FuXi-SHTM.md",
+    "arxiv": "2504.20852",
+    "paper_title": "Machine Learning (ML)-Physics Fusion Model Outperforms Both Physics-Only and ML-Only Models in Typhoon Predictions",
+    "code": "https://github.com/tpys/fuxi-weather",
+    "category": "multi"
+  },
+  {
+    "name": "3DTCR",
+    "file": "75_3DTCR.md",
+    "arxiv": "2603.13049",
+    "paper_title": "3DTCR: Vortex-following generative reconstruction improves tropical cyclone intensity prediction from global AI weather forecasts",
+    "code": null,
+    "category": "multi"
+  },
+  {
+    "name": "FuXi-CNOPs",
+    "file": "76_FuXi-CNOPs.md",
+    "arxiv": "2603.26165",
+    "paper_title": "Error Growth Dynamic and Predictability of Tropical Cyclone in Machine Learning Weather Prediction Model",
+    "code": "https://github.com/tpys/fuxi-weather",
+    "category": "multi"
+  },
+  {
+    "name": "Aardvark Probabilistic",
+    "file": "77_AardvarkProb.md",
+    "arxiv": "2608.30795",
+    "paper_title": "Uncertainty-Aware End-to-End AI Weather Forecasting: Disentangling Observation and Model Contributions",
+    "code": null,
+    "category": "multi"
+  },
+  {
+    "name": "RainPro-8",
+    "file": "78_RainPro-8.md",
+    "arxiv": "2505.10271",
+    "paper_title": "RainPro-8: An Efficient Deep Learning Model to Estimate Rainfall Probabilities Over 8 Hours",
+    "code": null,
+    "category": "multi"
+  },
+  {
+    "name": "RingMo-Sense",
+    "file": "79_RingMo-Sense.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "eo"
+  },
+  {
+    "name": "AlphaEarth Foundations",
+    "file": "80_AlphaEarth.md",
+    "arxiv": "2507.22291",
+    "paper_title": "AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data",
+    "code": null,
+    "category": "eo"
+  },
+  {
+    "name": "TerraMind",
+    "file": "81_TerraMind.md",
+    "arxiv": "2504.11171",
+    "paper_title": "TerraMind: Large-Scale Generative Multimodality for Earth Observation",
+    "code": null,
+    "category": "eo"
+  },
+  {
+    "name": "SwinRDM",
+    "file": "82_SwinRDM.md",
+    "arxiv": "2306.03110",
+    "paper_title": "SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting",
+    "code": null,
+    "category": "eo"
+  },
+  {
+    "name": "Earth-2 Medium Range / Atlas",
+    "file": "83_Earth2_Atlas.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "multi"
+  },
+  {
+    "name": "Observation-conditioned IMERG / 卫星条件降水生成",
+    "file": "84_IMERG_ObsCond.md",
+    "arxiv": "2412.02723",
+    "paper_title": "DYffCast: Regional Precipitation Nowcasting Using IMERG Satellite Data. A case study over South America",
+    "code": null,
+    "category": "sat"
+  },
+  {
+    "name": "玑衡 / Jiheng",
+    "file": "85_Jiheng.md",
+    "arxiv": null,
+    "paper_title": null,
+    "code": null,
+    "category": "multi"
+  }
+]

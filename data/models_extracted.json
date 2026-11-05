@@ -1,0 +1,778 @@
+[
+  {
+    "file": "01_Keisler2022.md",
+    "title": "# Keisler 2022\uff08GNN \u4e2d\u671f\u5929\u6c14\u9884\u62a5\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2202.07575"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "02_GraphCast.md",
+    "title": "# GraphCast\uff08DeepMind\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2212.12794"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "03_SeaCast.md",
+    "title": "# SeaCast\uff08\u5730\u4e2d\u6d77\u5206\u5c42 GNN \u6d77\u6d0b\u9884\u62a5\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2410.11807"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "04_GraphRiverCast.md",
+    "title": "# GraphRiverCast\uff08\u5168\u7403\u6cb3\u7f51\u62d3\u6251\u57fa\u7840\u6a21\u578b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2602.22293"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "05_FourCastNet.md",
+    "title": "# FourCastNet\uff08AFNO\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2202.11214"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "06_ACE.md",
+    "title": "# ACE\uff08Ai2 Climate Emulator\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2310.02074"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "07_NeuralGCM.md",
+    "title": "# NeuralGCM\uff08Google\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2311.07222"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "08_ACE2.md",
+    "title": "# ACE2\uff08Ai2 Climate Emulator v2\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2411.11268"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "09_LUCIE-3D.md",
+    "title": "# LUCIE-3D\uff08\u8f7b\u91cf\u4e09\u7ef4\u6c14\u5019\u6a21\u62df\u5668\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2509.02061"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "10_Pangu-Weather.md",
+    "title": "# Pangu-Weather\uff08\u534e\u4e3a\u76d8\u53e4\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2211.02556"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "11_FengWu.md",
+    "title": "# FengWu\uff08\u4e0a\u6d77 AI Lab \u98ce\u4e4c\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2304.02948"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "12_FuXi.md",
+    "title": "# FuXi\uff08\u590d\u65e6\u590d\u66e6\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2306.12873"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "13_ClimaX.md",
+    "title": "# ClimaX\uff08\u5fae\u8f6f\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2301.10343"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "14_Aurora.md",
+    "title": "# Aurora\uff08\u5fae\u8f6f\u5730\u7403\u7cfb\u7edf\u57fa\u7840\u6a21\u578b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2405.13063"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "15_AIFS.md",
+    "title": "# AIFS\uff08ECMWF\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2406.01465"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "16_GenCast.md",
+    "title": "# GenCast\uff08DeepMind \u6982\u7387\u6269\u6563\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2312.15796"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "17_CorrDiff.md",
+    "title": "# CorrDiff\uff08NVIDIA \u6b8b\u5dee\u6821\u6b63\u6269\u6563\u964d\u5c3a\u5ea6\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2309.15214"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "18_NowcastNet.md",
+    "title": "# NowcastNet\uff08Nature 2023 \u6781\u7aef\u964d\u6c34\u4e34\u8fd1\u9884\u62a5\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "19_DGMR.md",
+    "title": "# DGMR\uff08DeepMind \u96f7\u8fbe\u751f\u6210\u4e34\u8fd1\u9884\u62a5\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2104.00954"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "20_StormCast.md",
+    "title": "# StormCast\uff08HRRR \u5bf9\u6d41\u5141\u8bb8\u6269\u6563\u4eff\u771f\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2408.10958"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "21_GAN-UNet.md",
+    "title": "# GAN-UNet\uff08\u4e1c\u4e9a\u5927\u6c14\u6cb3\u9884\u62a5\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [
+      "10.1029/2023JD039311"
+    ],
+    "github": []
+  },
+  {
+    "file": "22_ARCNNv1.md",
+    "title": "# ARCNNv1\uff08\u5927\u6c14\u6cb3\u68c0\u6d4b CNN\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [
+      "10.5194/gmd-17-3533-2024"
+    ],
+    "github": []
+  },
+  {
+    "file": "23_DLESyM.md",
+    "title": "# DLESyM\uff08\u6df1\u5ea6\u5b66\u4e60\u5730\u7403\u7cfb\u7edf\u6a21\u5f0f\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2409.16247"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "24_Samudra.md",
+    "title": "# Samudra / Samudra2\uff08AI2\u2013M2LInES \u6d77\u6d0b\u6a21\u62df\u5668\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2412.03795",
+      "2509.12490"
+    ],
+    "dois": [
+      "10.1029/2024GL114318"
+    ],
+    "github": [
+      "m2lines/Samudra"
+    ]
+  },
+  {
+    "file": "25_CliMA.md",
+    "title": "# CliMA\uff08Caltech \u6c14\u5019\u5efa\u6a21\u8054\u76df\uff09\u6982\u89c8\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "26_ACE2-SOM.md",
+    "title": "# ACE2-SOM\uff08AI2 \u6c14\u5019\u6a21\u62df\u5668 + \u5e73\u677f\u6d77\u6d0b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2412.04418"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "27_3D-Geoformer.md",
+    "title": "# 3D-Geoformer\uff08ENSO \u4e09\u7ef4 Transformer\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [
+      "10.1126/sciadv.adf2827"
+    ],
+    "github": []
+  },
+  {
+    "file": "28_Prithvi-WxC.md",
+    "title": "# Prithvi-WxC\uff08\u5929\u6c14\u6c14\u5019\u57fa\u7840\u6a21\u578b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2409.13598"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "29_FengWu-W2S.md",
+    "title": "# FengWu-W2S\uff08\u5929\u6c14\u5230\u6b21\u5b63\u8282\u65e0\u7f1d\u9884\u62a5\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2411.10191"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "30_FGT.md",
+    "title": "# WeatherGFT / FGT\uff08\u7269\u7406\u2013AI \u6df7\u5408\u7ec6\u65f6\u95f4\u5c3a\u5ea6\u9884\u62a5\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2405.13796"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "31_HighFM.md",
+    "title": "# HighFM\uff08\u9ad8\u9891\u5730\u7403\u89c2\u6d4b\u57fa\u7840\u6a21\u578b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2604.04306"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "32_WenHai.md",
+    "title": "# WenHai\uff08\u6da1\u5206\u8fa8\u5168\u7403\u6d77\u6d0b AI \u9884\u62a5\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [
+      "10.1038/s41467-025-57389-2"
+    ],
+    "github": []
+  },
+  {
+    "file": "33_XiHe.md",
+    "title": "# XiHe\uff08\u7fb2\u548c\uff1a\u5168\u7403\u6da1\u5206\u8fa8\u6d77\u6d0b AI\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2402.02995"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "34_FuXi-ENS.md",
+    "title": "# FuXi-ENS\uff08\u4e2d\u671f\u96c6\u5408\u5929\u6c14\u9884\u62a5\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2405.05925"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "35_FuXi-S2S.md",
+    "title": "# FuXi-S2S\uff08\u6b21\u5b63\u8282\u96c6\u5408\u9884\u62a5\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2312.09926"
+    ],
+    "dois": [
+      "10.1038/s41467-024-50714-1"
+    ],
+    "github": []
+  },
+  {
+    "file": "36_FuXi-Extreme.md",
+    "title": "# FuXi-Extreme\uff08\u6781\u7aef\u98ce\u96e8\u6269\u6563\u8ba2\u6b63\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2310.19822"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "37_OmniCast.md",
+    "title": "# OmniCast\uff08\u8de8\u65f6\u95f4\u5c3a\u5ea6\u63a9\u7801\u6f5c\u6269\u6563\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2510.18707"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "38_LaDCast.md",
+    "title": "# LaDCast\uff08\u6f5c\u7a7a\u95f4\u6269\u6563\u4e2d\u671f\u96c6\u5408\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2506.09193"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "39_cBottle.md",
+    "title": "# cBottle\uff08Climate in a Bottle\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2505.06474"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "40_Marchuk.md",
+    "title": "# Marchuk\uff08\u6f5c\u7a7a\u95f4\u6d41\u5339\u914d\u4e2d\u671f\u2013\u6b21\u5b63\u8282\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2603.24428"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "41_MetNet.md",
+    "title": "# MetNet / MetNet-2 / MetNet-3\uff08Google \u89c2\u6d4b\u9a71\u52a8\u4e34\u8fd1\u2013\u77ed\u4e34\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2306.06079",
+      "2003.12140",
+      "2111.07470"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "42_Aardvark.md",
+    "title": "# Aardvark Weather\uff08\u7aef\u5230\u7aef\u89c2\u6d4b\u2192\u9884\u62a5\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2404.00411"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "43_FengWu-4DVar.md",
+    "title": "# FengWu-4DVar\uff08AI \u9884\u62a5 + \u56db\u7ef4\u53d8\u5206\u540c\u5316\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2312.12455"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "44_FuXi-Weather.md",
+    "title": "# FuXi-Weather\uff08\u6570\u636e\u5230\u9884\u62a5\u7aef\u5230\u7aef\u7cfb\u7edf\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2408.05472"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "45_SatMAE.md",
+    "title": "# SatMAE\uff08\u536b\u661f\u65f6\u7a7a\u591a\u5149\u8c31 MAE\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2207.08051"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "46_Prithvi-EO-1.md",
+    "title": "# Prithvi-EO-1\uff08\u5730\u7406\u7a7a\u95f4\u57fa\u7840\u6a21\u578b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2310.18660"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "47_Prithvi-EO-2.md",
+    "title": "# Prithvi-EO-2.0\uff08\u591a\u65f6\u76f8 EO \u57fa\u7840\u6a21\u578b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2412.02732"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "48_AnySat.md",
+    "title": "# AnySat\uff08\u591a\u5206\u8fa8\u7387\u591a\u6a21\u6001 EO \u6a21\u578b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2412.14123"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "49_Clay.md",
+    "title": "# Clay\uff08\u5f00\u653e\u5730\u7403\u57fa\u7840\u6a21\u578b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "50_SkySense.md",
+    "title": "# SkySense\uff08\u591a\u6a21\u6001\u9065\u611f\u57fa\u7840\u6a21\u578b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2312.10115"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "51_ResoNet.md",
+    "title": "# ResoNet\uff08ENSO AAS\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2312.10429"
+    ],
+    "dois": [
+      "10.1007/s00376-024-3316-6"
+    ],
+    "github": []
+  },
+  {
+    "file": "52_AIFL.md",
+    "title": "# AIFL\uff08\u5168\u7403\u65e5\u5f84\u6d41 / \u6d2a\u6c34\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2602.16579"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "53_SamudrACE.md",
+    "title": "# SamudrACE\uff08AI2 \u8026\u5408\u6c14\u5019\u4eff\u771f\u5668\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2509.12490"
+    ],
+    "dois": [
+      "10.1029/2025GL119340"
+    ],
+    "github": []
+  },
+  {
+    "file": "54_CTEFNet.md",
+    "title": "# CTEFNet\uff08\u591a\u5143 ENSO\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2503.19502"
+    ],
+    "dois": [
+      "10.1038/s41612-025-01159-w"
+    ],
+    "github": []
+  },
+  {
+    "file": "55_DualST.md",
+    "title": "# DualST\uff08\u6c14\u8c61\u5b66\u62a5 ENSO\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [
+      "10.11676/qxxb2025.20250002"
+    ],
+    "github": []
+  },
+  {
+    "file": "56_FengWu-GHR.md",
+    "title": "# FengWu-GHR\uff08\u516c\u91cc\u5c3a\u5ea6\u98ce\u4e4c\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2402.00059"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "57_AI-TRANS.md",
+    "title": "# AI-TRANS\uff08\u53f0\u98ce AI\u2013\u533a\u57df\u6a21\u5f0f\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "58_AIFS-TC_ENS.md",
+    "title": "# AIFS-TC / AIFS ENS\uff08ECMWF \u6982\u7387\u4e0e\u53f0\u98ce\u8ba2\u6b63\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2608.09959",
+      "2412.15832"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "59_Feng-Shun.md",
+    "title": "# Feng-Shun / \u98ce\u987a\uff08NCC \u6b21\u5b63\u8282\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "60_WeatherNext2_FGN.md",
+    "title": "# WeatherNext 2 / FGN\uff08DeepMind\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2506.10772"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "61_FengWu-Ensemble.md",
+    "title": "# FengWu-Ensemble\uff08\u98ce\u4e4c\u96c6\u5408\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [
+      "10.1038/s43247-025-02502-y"
+    ],
+    "github": []
+  },
+  {
+    "file": "62_FourCastNet3.md",
+    "title": "# FourCastNet-3 / FCN3\uff08NVIDIA\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2507.12144"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "63_Aurora15.md",
+    "title": "# Aurora 1.5\uff08Microsoft\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "64_GlobalMetNet.md",
+    "title": "# Global MetNet\uff08Google \u536b\u661f\u4e34\u8fd1\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2510.13050"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "65_StormScope.md",
+    "title": "# StormScope\uff08NVIDIA Earth-2 \u4e34\u8fd1\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2601.17268"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "66_DDMS.md",
+    "title": "# DDMS\uff08NSMC/\u98ce\u4e91\u536b\u661f\u6269\u6563\u4e34\u8fd1\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2404.10512"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "67_STGLDWeather.md",
+    "title": "# STGLDWeather\uff08\u7ad9\u70b9\u56fe+\u6f5c\u6269\u6563\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [
+      "10.1371/journal.pone.0348354"
+    ],
+    "github": [
+      "ZhiPengWuBD/STGLD"
+    ]
+  },
+  {
+    "file": "68_FengLei.md",
+    "title": "# FengLei / \u98ce\u96f7\uff08CMA \u4e34\u8fd1\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "69_VeinCast.md",
+    "title": "# VeinCast\uff08\u7269\u7406\u5f15\u5bfc\u52a8\u6001\u573a\u56fe\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2608.09286"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "70_UniCM.md",
+    "title": "# UniCM\uff08\u7edf\u4e00\u6c14\u5019\u6a21\u6001\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [],
+    "github": [
+      "tsinghua-fib-lab/UniCM-Global-Climate-Modes"
+    ]
+  },
+  {
+    "file": "71_AI-GAMFS.md",
+    "title": "# AI-GAMFS\uff08\u5168\u7403\u6c14\u6eb6\u80f6\u2013\u6c14\u8c61\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2412.02498"
+    ],
+    "dois": [
+      "10.1038/s41586-026-10234-y"
+    ],
+    "github": []
+  },
+  {
+    "file": "72_LangYa.md",
+    "title": "# LangYa / \u7405\u740a\uff08IOCAS \u6d77\u6d0b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2412.18097"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "73_FuXi-TC.md",
+    "title": "# FuXi-TC\uff08\u6269\u6563\u53f0\u98ce\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2508.16168"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "74_FuXi-SHTM.md",
+    "title": "# FuXi-SHTM\uff08ML\u2013\u7269\u7406\u6df7\u5408\u53f0\u98ce\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2504.20852"
+    ],
+    "dois": [
+      "10.1029/2025GL115926"
+    ],
+    "github": []
+  },
+  {
+    "file": "75_3DTCR.md",
+    "title": "# 3DTCR\uff08\u4e09\u7ef4\u6da1\u65cb\u8ddf\u968f\u91cd\u5efa\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2603.13049"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "76_FuXi-CNOPs.md",
+    "title": "# FuXi-CNOPs\uff08AI-CNOP \u76ee\u6807\u89c2\u6d4b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2603.26165"
+    ],
+    "dois": [
+      "10.1029/2024JD043261"
+    ],
+    "github": []
+  },
+  {
+    "file": "77_AardvarkProb.md",
+    "title": "# Aardvark Probabilistic\uff08\u7aef\u5230\u7aef\u6982\u7387\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2608.30795",
+      "2404.00411"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "78_RainPro-8.md",
+    "title": "# RainPro-8\uff088 \u5c0f\u65f6\u964d\u6c34\u6982\u7387\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2505.10271"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "79_RingMo-Sense.md",
+    "title": "# RingMo-Sense\uff08\u9065\u611f\u65f6\u7a7a\u57fa\u7840\u6a21\u578b\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [
+      "10.1109/TGRS.2023.3316166"
+    ],
+    "github": []
+  },
+  {
+    "file": "80_AlphaEarth.md",
+    "title": "# AlphaEarth Foundations\uff08DeepMind\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2507.22291"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "81_TerraMind.md",
+    "title": "# TerraMind\uff08IBM/ESA EO\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2504.11171"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "82_SwinRDM.md",
+    "title": "# SwinRDM\uff08SwinRNN+\u6269\u6563\u8d85\u5206\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2306.03110"
+    ],
+    "dois": [
+      "10.1609/aaai.v37i1.25105"
+    ],
+    "github": []
+  },
+  {
+    "file": "83_Earth2_Atlas.md",
+    "title": "# Earth-2 Medium Range / Atlas\uff08NVIDIA\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "84_IMERG_ObsCond.md",
+    "title": "# Observation-conditioned IMERG / \u536b\u661f\u6761\u4ef6\u964d\u6c34\u751f\u6210\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [
+      "2412.02723",
+      "2307.10843",
+      "2409.16319"
+    ],
+    "dois": [],
+    "github": []
+  },
+  {
+    "file": "85_Jiheng.md",
+    "title": "# \u7391\u8861 / Jiheng\uff08\u7535\u529b\u6c14\u8c61\uff09\u5b66\u4e60\u7b14\u8bb0",
+    "arxiv": [],
+    "dois": [],
+    "github": []
+  }
+]
