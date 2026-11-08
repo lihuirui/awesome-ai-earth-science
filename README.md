@@ -2,7 +2,7 @@
 
 > 精选 **AI for Earth Science / AI Weather & Climate** 论文、代码、数据集与工具库。仅收录可核验的 arXiv / 官方仓库链接；严禁编造标题、作者、年份或 URL。
 
-**仓库：** [lihuirui/awesome-ai-earth-science](https://github.com/lihuirui/awesome-ai-earth-science) · **最近更新：** 2026-11-05（Asia/Shanghai）
+**仓库：** [lihuirui/awesome-ai-earth-science](https://github.com/lihuirui/awesome-ai-earth-science) · **最近更新：** 2026-11-08（Asia/Shanghai）
 
 **收录原则：** 优先开源与可复现；条目格式对齐 [awesome-time-series-foundation-models](https://github.com/lihuirui/awesome-time-series-foundation-models)。
 
@@ -60,6 +60,7 @@
 - **ACE2** (2024) [[Paper](https://arxiv.org/abs/2411.11268)] [[Code](https://github.com/ai2cm/ace)] — _ACE2: Accurately learning subseasonal to decadal atmospheric variability and forced responses_
 - **LUCIE-3D** (2025) [[Paper](https://arxiv.org/abs/2509.02061)] — _LUCIE-3D: A three-dimensional climate emulator for forced responses_
 - **ACE2-SOM** (2024) [[Paper](https://arxiv.org/abs/2412.04418)] [[Code](https://github.com/ai2cm/ace)] — _ACE2-SOM: Coupling an ML atmospheric emulator to a slab ocean and learning the sensitivity of climate to changed CO$_2$_
+- **LCG-SFNO** (2026) [[Paper](https://arxiv.org/abs/2611.03411)] — _Low-Rank Clebsch--Gordan Coupling for Equivariant Spherical Forecasting_
 
 ### Transformer
 
@@ -88,6 +89,7 @@
 - **DualST**
 - **FengWu-GHR** (2024) [[Paper](https://arxiv.org/abs/2402.00059)] [[Code](https://github.com/OpenEarthLab/FengWu)] — _FengWu-GHR: Learning the Kilometer-scale Medium-range Global Weather Forecasting_
 - **AI-TRANS**
+- **NeuralPOM** (2026) [[Paper](https://arxiv.org/abs/2611.02460)] [[Code](https://github.com/ChiyodaMomo01/NeuralPOM)] — _New Wine in an Old Bottle -- NeuralPOM: A Hybrid Ocean Forecast Model with Differentiable Dynamics and Staged Learning_
 
 ---
 
@@ -110,6 +112,7 @@
 - **FengWu-Ensemble** [[Code](https://github.com/OpenEarthLab/FengWu)]
 - **FourCastNet-3 / FCN3** (2025) [[Paper](https://arxiv.org/abs/2507.12144)] [[Code](https://github.com/NVlabs/FourCastNet)] — _FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale_
 - **Aurora 1.5** [[Code](https://github.com/microsoft/aurora)]
+- **Sonny-ENS** (2026) [[Paper](https://arxiv.org/abs/2611.01614)] — _Sonny-ENS: demystifying machine-learning ensemble weather forecasting_
 
 ---
 
