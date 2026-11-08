@@ -678,5 +678,29 @@
     "paper_title": null,
     "code": null,
     "category": "multi"
+  },
+  {
+    "name": "NeuralPOM",
+    "file": "86_NeuralPOM.md",
+    "arxiv": "2611.02460",
+    "paper_title": "New Wine in an Old Bottle -- NeuralPOM: A Hybrid Ocean Forecast Model with Differentiable Dynamics and Staged Learning",
+    "code": "https://github.com/ChiyodaMomo01/NeuralPOM",
+    "category": "other"
+  },
+  {
+    "name": "LCG-SFNO",
+    "file": "87_LCG-SFNO.md",
+    "arxiv": "2611.03411",
+    "paper_title": "Low-Rank Clebsch--Gordan Coupling for Equivariant Spherical Forecasting",
+    "code": null,
+    "category": "no"
+  },
+  {
+    "name": "Sonny-ENS",
+    "file": "88_Sonny-ENS.md",
+    "arxiv": "2611.01614",
+    "paper_title": "Sonny-ENS: demystifying machine-learning ensemble weather forecasting",
+    "code": null,
+    "category": "prob"
   }
 ]
