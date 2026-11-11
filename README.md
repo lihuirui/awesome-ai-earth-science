@@ -2,7 +2,7 @@
 
 > 精选 **AI for Earth Science / AI Weather & Climate** 论文、代码、数据集与工具库。仅收录可核验的 arXiv / 官方仓库链接；严禁编造标题、作者、年份或 URL。
 
-**仓库：** [lihuirui/awesome-ai-earth-science](https://github.com/lihuirui/awesome-ai-earth-science) · **最近更新：** 2026-11-08（Asia/Shanghai）
+**仓库：** [lihuirui/awesome-ai-earth-science](https://github.com/lihuirui/awesome-ai-earth-science) · **最近更新：** 2026-11-11（Asia/Shanghai）
 
 **收录原则：** 优先开源与可复现；条目格式对齐 [awesome-time-series-foundation-models](https://github.com/lihuirui/awesome-time-series-foundation-models)。
 
@@ -90,6 +90,9 @@
 - **FengWu-GHR** (2024) [[Paper](https://arxiv.org/abs/2402.00059)] [[Code](https://github.com/OpenEarthLab/FengWu)] — _FengWu-GHR: Learning the Kilometer-scale Medium-range Global Weather Forecasting_
 - **AI-TRANS**
 - **NeuralPOM** (2026) [[Paper](https://arxiv.org/abs/2611.02460)] [[Code](https://github.com/ChiyodaMomo01/NeuralPOM)] — _New Wine in an Old Bottle -- NeuralPOM: A Hybrid Ocean Forecast Model with Differentiable Dynamics and Staged Learning_
+- **One2N** (2026) [[Paper](https://arxiv.org/abs/2611.12249)] — _One2N: Recursive refinement breaks the resolution barrier for Earth-system AI_
+- **Rescene-ESM** (2026) [[Paper](https://arxiv.org/abs/2611.11066)] — _Rescene-ESM: an Earth system model built around a frozen AI weather model_
+- **PROLA** (2026) [[Paper](https://arxiv.org/abs/2611.11318)] — _PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling_
 
 ---
 
@@ -130,6 +133,9 @@
 - **StormScope** (2026) [[Paper](https://arxiv.org/abs/2601.17268)] — _Skillful Thunderstorm Forecasts Learned Directly from Observations_
 - **DDMS** (2024) [[Paper](https://arxiv.org/abs/2404.10512)] — _Four-hour thunderstorm nowcasting using a deep diffusion model of satellite data_
 - **Observation-conditioned IMERG / 卫星条件降水生成** (2024) [[Paper](https://arxiv.org/abs/2412.02723)] — _DYffCast: Regional Precipitation Nowcasting Using IMERG Satellite Data. A case study over South America_
+- **RainFlow** (2026) [[Paper](https://arxiv.org/abs/2611.09663)] — _RainFlow: Flow Matching for Infrared-Only Quantitative Precipitation Estimation_
+- **PARDIG** (2026) [[Paper](https://arxiv.org/abs/2611.13941)] — _PARDIG: Global Precipitation Estimates Learned from Sparse Satellite Observations_
+- **Multispectral SWR Nowcasting / 多光谱地表短波辐射临近预报** (2026) [[Paper](https://arxiv.org/abs/2611.12999)] — _Direct Multispectral Satellite Nowcasting of Gridded Surface Solar Radiation_
 
 ---
 
@@ -175,6 +181,7 @@
 - **AlphaEarth Foundations** (2025) [[Paper](https://arxiv.org/abs/2507.22291)] — _AlphaEarth Foundations: An embedding field model for accurate and efficient global mapping from sparse label data_
 - **TerraMind** (2025) [[Paper](https://arxiv.org/abs/2504.11171)] — _TerraMind: Large-Scale Generative Multimodality for Earth Observation_
 - **SwinRDM** (2023) [[Paper](https://arxiv.org/abs/2306.03110)] — _SwinRDM: Integrate SwinRNN with Diffusion Model towards High-Resolution and High-Quality Weather Forecasting_
+- **GeoSAE** (2026) [[Paper](https://arxiv.org/abs/2611.11398)] [[Code](https://github.com/EarthyScience/geosae)] — _Decomposing Earth Embeddings with Sparse Autoencoders_
 
 ---
 
@@ -183,6 +190,9 @@
 - **ERA5** — ECMWF 再分析（常用 AI 天气训练数据） [[CDS](https://cds.climate.copernicus.eu/)]
 - **WeatherBench 2** — 新一代数据驱动全球天气预报基准 [[Code](https://github.com/google-research/weatherbench2)]
 - **ClimateBench** — 气候模型仿真基准（见论文与社区仓库，条目随更新补充）
+- **DailyWildfireCAN** — 加拿大次日野火蔓延预测数据集与基准 [[Paper](https://arxiv.org/abs/2611.14207)] [[Code](https://github.com/hagerradi/DailyWildFireCAN)]
+- **Hydro-Dataset** — 北欧水文多模态开源管线与基础模型基准 [[Paper](https://arxiv.org/abs/2611.10992)]
+- **HydroTuring** — 检验水文模型质量、能量与动量守恒的物理探针基准 [[Paper](https://arxiv.org/abs/2611.11563)] [[Code](https://github.com/Flood-Lab/HydroTuring)]
 
 ---
 

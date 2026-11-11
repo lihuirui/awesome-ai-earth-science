@@ -702,5 +702,61 @@
     "paper_title": "Sonny-ENS: demystifying machine-learning ensemble weather forecasting",
     "code": null,
     "category": "prob"
+  },
+  {
+    "name": "One2N",
+    "file": "89_One2N.md",
+    "arxiv": "2611.12249",
+    "paper_title": "One2N: Recursive refinement breaks the resolution barrier for Earth-system AI",
+    "code": null,
+    "category": "other"
+  },
+  {
+    "name": "Rescene-ESM",
+    "file": "90_Rescene-ESM.md",
+    "arxiv": "2611.11066",
+    "paper_title": "Rescene-ESM: an Earth system model built around a frozen AI weather model",
+    "code": null,
+    "category": "other"
+  },
+  {
+    "name": "PROLA",
+    "file": "91_PROLA.md",
+    "arxiv": "2611.11318",
+    "paper_title": "PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling",
+    "code": null,
+    "category": "other"
+  },
+  {
+    "name": "RainFlow",
+    "file": "92_RainFlow.md",
+    "arxiv": "2611.09663",
+    "paper_title": "RainFlow: Flow Matching for Infrared-Only Quantitative Precipitation Estimation",
+    "code": null,
+    "category": "sat"
+  },
+  {
+    "name": "PARDIG",
+    "file": "93_PARDIG.md",
+    "arxiv": "2611.13941",
+    "paper_title": "PARDIG: Global Precipitation Estimates Learned from Sparse Satellite Observations",
+    "code": null,
+    "category": "sat"
+  },
+  {
+    "name": "Multispectral SWR Nowcasting / 多光谱地表短波辐射临近预报",
+    "file": "94_Multispectral_SWR_Nowcasting.md",
+    "arxiv": "2611.12999",
+    "paper_title": "Direct Multispectral Satellite Nowcasting of Gridded Surface Solar Radiation",
+    "code": null,
+    "category": "sat"
+  },
+  {
+    "name": "GeoSAE",
+    "file": "95_GeoSAE.md",
+    "arxiv": "2611.11398",
+    "paper_title": "Decomposing Earth Embeddings with Sparse Autoencoders",
+    "code": "https://github.com/EarthyScience/geosae",
+    "category": "eo"
   }
 ]
