@@ -198,6 +198,7 @@
 - **DailyWildfireCAN** — 加拿大次日野火蔓延预测数据集与基准 [[Paper](https://arxiv.org/abs/2611.14207)] [[Code](https://github.com/hagerradi/DailyWildFireCAN)]
 - **Hydro-Dataset** — 北欧水文多模态开源管线与基础模型基准 [[Paper](https://arxiv.org/abs/2611.10992)]
 - **HydroTuring** — 检验水文模型质量、能量与动量守恒的物理探针基准 [[Paper](https://arxiv.org/abs/2611.11563)] [[Code](https://github.com/Flood-Lab/HydroTuring)]
+- **EarthVerse** — 面向动态地球系统与自然灾害的科学智能体基准，含 405 项可复现任务、199 个已记录事件与 19 类灾害 [[Paper](https://arxiv.org/abs/2608.23525)] [[Code](https://github.com/CuiZHIQ/Earth-Verse)]
 
 ---
 

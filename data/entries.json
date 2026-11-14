@@ -798,5 +798,13 @@
     "paper_title": "HybridCT: ML Accelerated Tomography for Climate Relevant 3D Cloud Observations",
     "code": null,
     "category": "sat"
+  },
+  {
+    "name": "EarthVerse",
+    "file": "101_EarthVerse.md",
+    "arxiv": "2608.23525",
+    "paper_title": "EarthVerse: Benchmarking Scientific Agents Across Dynamic Earth Systems and Natural Hazards",
+    "code": "https://github.com/CuiZHIQ/Earth-Verse",
+    "category": "dataset"
   }
 ]
