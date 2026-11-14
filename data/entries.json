@@ -758,5 +758,45 @@
     "paper_title": "Decomposing Earth Embeddings with Sparse Autoencoders",
     "code": "https://github.com/EarthyScience/geosae",
     "category": "eo"
+  },
+  {
+    "name": "STRATA",
+    "file": "96_STRATA.md",
+    "arxiv": "2606.31248",
+    "paper_title": "Scaling Storm-Resolving Atmospheric AI Simulation to the Entire Planet",
+    "code": "https://github.com/NVlabs/STRATA",
+    "category": "tf"
+  },
+  {
+    "name": "DaYu-TC",
+    "file": "97_DaYu-TC.md",
+    "arxiv": "2611.15266",
+    "paper_title": "DaYu-TC: a global-regional nested AI system for tropical cyclone forecasting",
+    "code": null,
+    "category": "multi"
+  },
+  {
+    "name": "Hybrid ML-Analog Downscaling / 混合机器学习-类比降尺度",
+    "file": "98_Hybrid_ML_Analog_Downscaling.md",
+    "arxiv": "2611.15284",
+    "paper_title": "A hybrid machine learning-analog framework for downscaling unprecedented climate extremes",
+    "code": null,
+    "category": "prob"
+  },
+  {
+    "name": "Guided Temperature Diffusion / 观测引导的全球温度扩散模拟",
+    "file": "99_Guided_Temperature_Diffusion.md",
+    "arxiv": "2611.10882",
+    "paper_title": "Guiding future global temperature distributions with simulations and observations",
+    "code": null,
+    "category": "prob"
+  },
+  {
+    "name": "HybridCT",
+    "file": "100_HybridCT.md",
+    "arxiv": "2611.16255",
+    "paper_title": "HybridCT: ML Accelerated Tomography for Climate Relevant 3D Cloud Observations",
+    "code": null,
+    "category": "sat"
   }
 ]

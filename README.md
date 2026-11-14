@@ -2,7 +2,7 @@
 
 > 精选 **AI for Earth Science / AI Weather & Climate** 论文、代码、数据集与工具库。仅收录可核验的 arXiv / 官方仓库链接；严禁编造标题、作者、年份或 URL。
 
-**仓库：** [lihuirui/awesome-ai-earth-science](https://github.com/lihuirui/awesome-ai-earth-science) · **最近更新：** 2026-11-11（Asia/Shanghai）
+**仓库：** [lihuirui/awesome-ai-earth-science](https://github.com/lihuirui/awesome-ai-earth-science) · **最近更新：** 2026-11-14（Asia/Shanghai）
 
 **收录原则：** 优先开源与可复现；条目格式对齐 [awesome-time-series-foundation-models](https://github.com/lihuirui/awesome-time-series-foundation-models)。
 
@@ -75,6 +75,7 @@
 - **FengWu-W2S** (2024) [[Paper](https://arxiv.org/abs/2411.10191)] [[Code](https://github.com/OpenEarthLab/FengWu)] — _FengWu-W2S: A deep learning model for seamless weather-to-subseasonal forecast of global atmosphere_
 - **WeatherGFT / FGT** (2024) [[Paper](https://arxiv.org/abs/2405.13796)] — _Generalizing Weather Forecast to Fine-grained Temporal Scales via Physics-AI Hybrid Modeling_
 - **HighFM** (2026) [[Paper](https://arxiv.org/abs/2604.04306)] — _HighFM: Towards a Foundation Model for Learning Representations from High-Frequency Earth Observation Data_
+- **STRATA** (2026) [[Paper](https://arxiv.org/abs/2606.31248)] [[Code](https://github.com/NVlabs/STRATA)] — _Scaling Storm-Resolving Atmospheric AI Simulation to the Entire Planet_
 
 ### Other DNN
 
@@ -116,6 +117,8 @@
 - **FourCastNet-3 / FCN3** (2025) [[Paper](https://arxiv.org/abs/2507.12144)] [[Code](https://github.com/NVlabs/FourCastNet)] — _FourCastNet 3: A geometric approach to probabilistic machine-learning weather forecasting at scale_
 - **Aurora 1.5** [[Code](https://github.com/microsoft/aurora)]
 - **Sonny-ENS** (2026) [[Paper](https://arxiv.org/abs/2611.01614)] — _Sonny-ENS: demystifying machine-learning ensemble weather forecasting_
+- **Hybrid ML-Analog Downscaling / 混合机器学习-类比降尺度** (2026) [[Paper](https://arxiv.org/abs/2611.15284)] — _A hybrid machine learning-analog framework for downscaling unprecedented climate extremes_
+- **Guided Temperature Diffusion / 观测引导的全球温度扩散模拟** (2026) [[Paper](https://arxiv.org/abs/2611.10882)] — _Guiding future global temperature distributions with simulations and observations_
 
 ---
 
@@ -136,6 +139,7 @@
 - **RainFlow** (2026) [[Paper](https://arxiv.org/abs/2611.09663)] — _RainFlow: Flow Matching for Infrared-Only Quantitative Precipitation Estimation_
 - **PARDIG** (2026) [[Paper](https://arxiv.org/abs/2611.13941)] — _PARDIG: Global Precipitation Estimates Learned from Sparse Satellite Observations_
 - **Multispectral SWR Nowcasting / 多光谱地表短波辐射临近预报** (2026) [[Paper](https://arxiv.org/abs/2611.12999)] — _Direct Multispectral Satellite Nowcasting of Gridded Surface Solar Radiation_
+- **HybridCT** (2026) [[Paper](https://arxiv.org/abs/2611.16255)] — _HybridCT: ML Accelerated Tomography for Climate Relevant 3D Cloud Observations_
 
 ---
 
@@ -162,6 +166,7 @@
 - **FuXi-SHTM** (2025) [[Paper](https://arxiv.org/abs/2504.20852)] [[Code](https://github.com/tpys/fuxi-weather)] — _Machine Learning (ML)-Physics Fusion Model Outperforms Both Physics-Only and ML-Only Models in Typhoon Predictions_
 - **3DTCR** (2026) [[Paper](https://arxiv.org/abs/2603.13049)] — _3DTCR: Vortex-following generative reconstruction improves tropical cyclone intensity prediction from global AI weather forecasts_
 - **FuXi-CNOPs** (2026) [[Paper](https://arxiv.org/abs/2603.26165)] [[Code](https://github.com/tpys/fuxi-weather)] — _Error Growth Dynamic and Predictability of Tropical Cyclone in Machine Learning Weather Prediction Model_
+- **DaYu-TC** (2026) [[Paper](https://arxiv.org/abs/2611.15266)] — _DaYu-TC: a global-regional nested AI system for tropical cyclone forecasting_
 - **Aardvark Probabilistic** (2026) [[Paper](https://arxiv.org/abs/2608.30795)] — _Uncertainty-Aware End-to-End AI Weather Forecasting: Disentangling Observation and Model Contributions_
 - **RainPro-8** (2025) [[Paper](https://arxiv.org/abs/2505.10271)] — _RainPro-8: An Efficient Deep Learning Model to Estimate Rainfall Probabilities Over 8 Hours_
 - **Earth-2 Medium Range / Atlas**
@@ -206,6 +211,8 @@
 - **ACE (Ai2)** — Ai2 Climate Emulator 系列 [[Code](https://github.com/ai2cm/ace)]
 - **Microsoft Aurora** — 地球系统预报模型实现 [[Code](https://github.com/microsoft/aurora)]
 - **TorchGeo** — 地理空间数据集与预训练模型工具库 [[Code](https://github.com/torchgeo/torchgeo)]
+- **PhysXAI** (2026) [[Paper](https://arxiv.org/abs/2611.15053)] — _PhysXAI: A Theoretical Framework for Diagnosing Physical Hallucinations in Weather Foundation Models_
+- **AI-NWP FP16 Inference / 半精度推理** (2026) [[Paper](https://arxiv.org/abs/2611.09573)] [[Code](https://github.com/sieste/ai-nwp-fp16)] — _Half-precision inference of AI weather prediction models: negligible loss of skill at a fraction of the cost_
 
 ---
 
